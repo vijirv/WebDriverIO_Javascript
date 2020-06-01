@@ -1,0 +1,48 @@
+{
+  "uid" : "9a0f2dafe50cc2b5",
+  "name" : "should scroll to forgot password link",
+  "fullName" : "scroll to element.should scroll to forgot password link",
+  "historyId" : "5913b8b9d16e2c67ddc8204a39892a32",
+  "time" : {
+    "start" : 1591024638109,
+    "stop" : 1591024638109,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "scroll to element"
+  }, {
+    "name" : "testClass",
+    "value" : "scroll to element"
+  }, {
+    "name" : "testMethod",
+    "value" : "should scroll to forgot password link"
+  }, {
+    "name" : "package",
+    "value" : "scroll to element"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a0f2dafe50cc2b5.json",
+  "parameterValues" : [ ]
+}

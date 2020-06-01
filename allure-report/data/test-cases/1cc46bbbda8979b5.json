@@ -1,0 +1,58 @@
+{
+  "uid" : "1cc46bbbda8979b5",
+  "name" : "check checkbox page header",
+  "fullName" : "handling checkboxes.check checkbox page header",
+  "historyId" : "9c1dfa60a5d7eb9e773e8162802e6d78",
+  "time" : {
+    "start" : 1591024531487,
+    "stop" : 1591024536090,
+    "duration" : 4603
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "handling checkboxes"
+  }, {
+    "name" : "testClass",
+    "value" : "handling checkboxes"
+  }, {
+    "name" : "testMethod",
+    "value" : "check checkbox page header"
+  }, {
+    "name" : "package",
+    "value" : "handling checkboxes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cc46bbbda8979b5.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

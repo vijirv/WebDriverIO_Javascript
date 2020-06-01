@@ -1,0 +1,56 @@
+{
+  "uid" : "769af8c08ff95cfa",
+  "name" : "should wait for delete button",
+  "fullName" : "wait for delete button.should wait for delete button",
+  "historyId" : "f8c1e1c681d3dc28cebfa5aece4e1f1a",
+  "time" : {
+    "start" : 1591024640117,
+    "stop" : 1591024647509,
+    "duration" : 7392
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-13"
+  }, {
+    "name" : "suite",
+    "value" : "wait for delete button"
+  }, {
+    "name" : "testClass",
+    "value" : "wait for delete button"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for delete button"
+  }, {
+    "name" : "package",
+    "value" : "wait for delete button"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "769af8c08ff95cfa.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

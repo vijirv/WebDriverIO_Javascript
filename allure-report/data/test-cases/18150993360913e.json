@@ -1,0 +1,58 @@
+{
+  "uid" : "18150993360913e",
+  "name" : "name heading enabled?",
+  "fullName" : "blaze page elements handle.name heading enabled?",
+  "historyId" : "98d0495c1a8e3b8524e3b48661d266ad",
+  "time" : {
+    "start" : 1591024526594,
+    "stop" : 1591024527459,
+    "duration" : 865
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "blaze page elements handle"
+  }, {
+    "name" : "testClass",
+    "value" : "blaze page elements handle"
+  }, {
+    "name" : "testMethod",
+    "value" : "name heading enabled?"
+  }, {
+    "name" : "package",
+    "value" : "blaze page elements handle"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18150993360913e.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

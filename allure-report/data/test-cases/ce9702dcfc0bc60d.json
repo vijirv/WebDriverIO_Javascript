@@ -1,0 +1,58 @@
+{
+  "uid" : "ce9702dcfc0bc60d",
+  "name" : "check checkbox page url",
+  "fullName" : "handling checkboxes.check checkbox page url",
+  "historyId" : "5a164f101438b9c8e93b3f92c715dec4",
+  "time" : {
+    "start" : 1591024536092,
+    "stop" : 1591024538568,
+    "duration" : 2476
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "handling checkboxes"
+  }, {
+    "name" : "testClass",
+    "value" : "handling checkboxes"
+  }, {
+    "name" : "testMethod",
+    "value" : "check checkbox page url"
+  }, {
+    "name" : "package",
+    "value" : "handling checkboxes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce9702dcfc0bc60d.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

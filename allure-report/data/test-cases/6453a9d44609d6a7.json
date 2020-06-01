@@ -1,0 +1,58 @@
+{
+  "uid" : "6453a9d44609d6a7",
+  "name" : "move to element",
+  "fullName" : "page actions features.move to element",
+  "historyId" : "3b842e40e8db10d4dbd1d7c119a7ab2d",
+  "time" : {
+    "start" : 1591024569113,
+    "stop" : 1591024599086,
+    "duration" : 29973
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "page actions features"
+  }, {
+    "name" : "testClass",
+    "value" : "page actions features"
+  }, {
+    "name" : "testMethod",
+    "value" : "move to element"
+  }, {
+    "name" : "package",
+    "value" : "page actions features"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6453a9d44609d6a7.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

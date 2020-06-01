@@ -1,0 +1,58 @@
+{
+  "uid" : "9126079fb3f1d9f",
+  "name" : "Lambdatest Demo TestCase",
+  "fullName" : "Lambdatest Demo Test.Lambdatest Demo TestCase",
+  "historyId" : "6e332c90c18ef73157c788e9d9a9d7ee",
+  "time" : {
+    "start" : 1591024516049,
+    "stop" : 1591024520599,
+    "duration" : 4550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Lambdatest Demo Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Lambdatest Demo Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Lambdatest Demo TestCase"
+  }, {
+    "name" : "package",
+    "value" : "Lambdatest Demo Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9126079fb3f1d9f.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

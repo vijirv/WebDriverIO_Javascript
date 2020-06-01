@@ -1,0 +1,58 @@
+{
+  "uid" : "33f08cbd0ec7b513",
+  "name" : "KEYS action perform shift",
+  "fullName" : "page actions features.KEYS action perform shift",
+  "historyId" : "5c47a97bed49bf1cdedad738a8d139df",
+  "time" : {
+    "start" : 1591024609141,
+    "stop" : 1591024614729,
+    "duration" : 5588
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "page actions features"
+  }, {
+    "name" : "testClass",
+    "value" : "page actions features"
+  }, {
+    "name" : "testMethod",
+    "value" : "KEYS action perform shift"
+  }, {
+    "name" : "package",
+    "value" : "page actions features"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33f08cbd0ec7b513.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "20cdf25de0fcfc8a",
+  "name" : "should wait for button  to be disabled",
+  "fullName" : "wait for enabled case.should wait for button  to be disabled",
+  "historyId" : "8bc93510b97021d40401297bebeb6149",
+  "time" : {
+    "start" : 1591024638786,
+    "stop" : 1591024655956,
+    "duration" : 17170
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element (\"#submitButton\") still not enabled after 10000ms",
+  "statusTrace" : "Error: element (\"#submitButton\") still not enabled after 10000ms\n                    at C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\webdriverio\\build\\commands\\browser\\waitUntil.js:34:15\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\webdriverio\\build\\middlewares.js:21:24)\n                    at async Element.runCommandWithHooks (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Element.runCommandWithHooks (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at Context.<anonymous> (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\test\\specs\\waits\\waitForEnabled.test.js:33:19)\n                    at Context.executeSync (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element (\"#submitButton\") still not enabled after 10000ms",
+    "statusTrace" : "Error: element (\"#submitButton\") still not enabled after 10000ms\n                    at C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\webdriverio\\build\\commands\\browser\\waitUntil.js:34:15\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\webdriverio\\build\\middlewares.js:21:24)\n                    at async Element.runCommandWithHooks (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Element.runCommandWithHooks (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at Context.<anonymous> (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\test\\specs\\waits\\waitForEnabled.test.js:33:19)\n                    at Context.executeSync (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "259206e3f13a9f01",
+      "name" : "Screenshot",
+      "source" : "259206e3f13a9f01.png",
+      "type" : "image/png",
+      "size" : 42866
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-12"
+  }, {
+    "name" : "suite",
+    "value" : "wait for enabled case"
+  }, {
+    "name" : "testClass",
+    "value" : "wait for enabled case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for button  to be disabled"
+  }, {
+    "name" : "package",
+    "value" : "wait for enabled case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "20cdf25de0fcfc8a.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

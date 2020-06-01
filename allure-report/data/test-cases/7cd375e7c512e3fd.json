@@ -1,0 +1,58 @@
+{
+  "uid" : "7cd375e7c512e3fd",
+  "name" : "verify home page element",
+  "fullName" : "home page element handle.verify home page element",
+  "historyId" : "128d8660fbc0ce7480daddcf687408ea",
+  "time" : {
+    "start" : 1591024574509,
+    "stop" : 1591024609799,
+    "duration" : 35290
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-8"
+  }, {
+    "name" : "suite",
+    "value" : "home page element handle"
+  }, {
+    "name" : "testClass",
+    "value" : "home page element handle"
+  }, {
+    "name" : "testMethod",
+    "value" : "verify home page element"
+  }, {
+    "name" : "package",
+    "value" : "home page element handle"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cd375e7c512e3fd.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

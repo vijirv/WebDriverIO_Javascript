@@ -1,0 +1,58 @@
+{
+  "uid" : "2241065ca10478a4",
+  "name" : "get all values from dropdown",
+  "fullName" : "drop down handling.get all values from dropdown",
+  "historyId" : "8cb4f7a22f296ad1276179ea8cb3640d",
+  "time" : {
+    "start" : 1591024516056,
+    "stop" : 1591024528661,
+    "duration" : 12605
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "drop down handling"
+  }, {
+    "name" : "testClass",
+    "value" : "drop down handling"
+  }, {
+    "name" : "testMethod",
+    "value" : "get all values from dropdown"
+  }, {
+    "name" : "package",
+    "value" : "drop down handling"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2241065ca10478a4.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "93fe76e31725d76",
+  "name" : "select dropdown by visible text",
+  "fullName" : "drop down handling.select dropdown by visible text",
+  "historyId" : "c21924f5993999644b72a61f008f87bc",
+  "time" : {
+    "start" : 1591024516056,
+    "stop" : 1591024516056,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "drop down handling"
+  }, {
+    "name" : "testClass",
+    "value" : "drop down handling"
+  }, {
+    "name" : "testMethod",
+    "value" : "select dropdown by visible text"
+  }, {
+    "name" : "package",
+    "value" : "drop down handling"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93fe76e31725d76.json",
+  "parameterValues" : [ ]
+}

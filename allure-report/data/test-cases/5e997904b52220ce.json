@@ -1,0 +1,58 @@
+{
+  "uid" : "5e997904b52220ce",
+  "name" : "get header value",
+  "fullName" : "interaction with web elements.get header value",
+  "historyId" : "a3c2e3f364650d336d56e7be56acfe1a",
+  "time" : {
+    "start" : 1591024573380,
+    "stop" : 1591024596998,
+    "duration" : 23618
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-7"
+  }, {
+    "name" : "suite",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testClass",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "get header value"
+  }, {
+    "name" : "package",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e997904b52220ce.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

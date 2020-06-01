@@ -1,0 +1,58 @@
+{
+  "uid" : "68f36bca1de48cc5",
+  "name" : "click on login button",
+  "fullName" : "handle application login.click on login button",
+  "historyId" : "79848cf00e8a4d6a6c3165326107e225",
+  "time" : {
+    "start" : 1591024641220,
+    "stop" : 1591024641750,
+    "duration" : 530
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-10"
+  }, {
+    "name" : "suite",
+    "value" : "handle application login"
+  }, {
+    "name" : "testClass",
+    "value" : "handle application login"
+  }, {
+    "name" : "testMethod",
+    "value" : "click on login button"
+  }, {
+    "name" : "package",
+    "value" : "handle application login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68f36bca1de48cc5.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

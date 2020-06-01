@@ -1,0 +1,58 @@
+{
+  "uid" : "fe080a346c12214a",
+  "name" : "get header text",
+  "fullName" : "interaction with web elements.get header text",
+  "historyId" : "121a070db9afffaa1f61126935dc222a",
+  "time" : {
+    "start" : 1591024607120,
+    "stop" : 1591024616338,
+    "duration" : 9218
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-9"
+  }, {
+    "name" : "suite",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testClass",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "get header text"
+  }, {
+    "name" : "package",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe080a346c12214a.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

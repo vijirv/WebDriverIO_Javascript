@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Can't call setValue on element with selector \"#twotabsearchtextbox\" because element wasn't found",
+      "children" : [ {
+        "name" : "enter value in a field",
+        "uid" : "21b18f54ea8cf98b",
+        "parentUid" : "221a58e8017b65227ecabfa841f80369",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591024574766,
+          "stop" : 1591024595203,
+          "duration" : 20437
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-83.0.4103.61" ]
+      } ],
+      "uid" : "221a58e8017b65227ecabfa841f80369"
+    }, {
+      "name" : "Can't call click on element with selector \"input.nav-input\" because element wasn't found",
+      "children" : [ {
+        "name" : "click on a filed",
+        "uid" : "7da1f7f2cd1126b6",
+        "parentUid" : "d3ae51ff868b8eca933004d866bf6064",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591024595206,
+          "stop" : 1591024607118,
+          "duration" : 11912
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-83.0.4103.61" ]
+      } ],
+      "uid" : "d3ae51ff868b8eca933004d866bf6064"
+    }, {
+      "name" : "element (\"#submitButton\") still not enabled after 10000ms",
+      "children" : [ {
+        "name" : "should wait for button  to be disabled",
+        "uid" : "20cdf25de0fcfc8a",
+        "parentUid" : "62590115e68c093795b6a69e59be8ab2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591024638786,
+          "stop" : 1591024655956,
+          "duration" : 17170
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-83.0.4103.61" ]
+      } ],
+      "uid" : "62590115e68c093795b6a69e59be8ab2"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

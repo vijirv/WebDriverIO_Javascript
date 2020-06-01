@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1591024574766' stop='1591024616344'>
+    <name>interaction with web elements</name>
+    <title>interaction with web elements</title>
+    <test-cases>
+        <test-case start='1591024574766' status='broken' stop='1591024595203'>
+            <name>enter value in a field</name>
+            <title>enter value in a field</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-9'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-83.0.4103.61'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='db8bc7d3-42f9-4b55-b5fd-60eca6ecb28b-attachment.png' type='image/png' size='98011'/>
+            </attachments>
+            <failure>
+                <message>Can't call setValue on element with selector "#twotabsearchtextbox" because element wasn't found</message>
+                <stack-trace>Error: Can't call setValue on element with selector "#twotabsearchtextbox" because element wasn't found
+                    at implicitWait (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\webdriverio\build\utils\implicitWait.js:22:13)
+                    at Element.runCommandWithHooks (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\wrapCommand.js:82:22)
+                    at Element.wrapCommandFn (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\wrapCommand.js:59:40)
+                    at Element.elementErrorHandlerCallback (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\webdriverio\build\middlewares.js:40:8)
+                    at Context.&lt;anonymous> (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\test\specs\locators.js:9:16)
+                    at Context.executeSync (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\index.js:56:18)
+                    at C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\index.js:82:70</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1591024595206' status='broken' stop='1591024607118'>
+            <name>click on a filed</name>
+            <title>click on a filed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-9'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-83.0.4103.61'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a3db5229-0623-4bc3-a602-8db84e03ffcb-attachment.png' type='image/png' size='98011'/>
+            </attachments>
+            <failure>
+                <message>Can't call click on element with selector "input.nav-input" because element wasn't found</message>
+                <stack-trace>Error: Can't call click on element with selector "input.nav-input" because element wasn't found
+                    at implicitWait (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\webdriverio\build\utils\implicitWait.js:22:13)
+                    at Element.runCommandWithHooks (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\wrapCommand.js:82:22)
+                    at Element.wrapCommandFn (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\wrapCommand.js:59:40)
+                    at Element.elementErrorHandlerCallback (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\webdriverio\build\middlewares.js:40:8)
+                    at Context.&lt;anonymous> (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\test\specs\locators.js:16:20)
+                    at Context.executeSync (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\index.js:56:18)
+                    at C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\index.js:82:70</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1591024607120' status='passed' stop='1591024616338'>
+            <name>get header text</name>
+            <title>get header text</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-9'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-83.0.4103.61'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1591024638784' stop='1591024655957'>
+    <name>wait for enabled case</name>
+    <title>wait for enabled case</title>
+    <test-cases>
+        <test-case start='1591024638785' status='pending' stop='1591024638785'>
+            <name>should wait for button  to be enabled</name>
+            <title>should wait for button  to be enabled</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1591024638786' status='broken' stop='1591024655956'>
+            <name>should wait for button  to be disabled</name>
+            <title>should wait for button  to be disabled</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-12'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-83.0.4103.61'/>
+            </parameters>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='32762add-4f73-45e7-87e2-4ab060cd2318-attachment.png' type='image/png' size='42866'/>
+            </attachments>
+            <failure>
+                <message>element ("#submitButton") still not enabled after 10000ms</message>
+                <stack-trace>Error: element ("#submitButton") still not enabled after 10000ms
+                    at C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\webdriverio\build\commands\browser\waitUntil.js:34:15
+                    at async Element.elementErrorHandlerCallbackFn (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\webdriverio\build\middlewares.js:21:24)
+                    at async Element.runCommandWithHooks (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\wrapCommand.js:88:21)
+                    at Element.runCommandWithHooks (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\wrapCommand.js:82:22)
+                    at Element.wrapCommandFn (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\wrapCommand.js:59:40)
+                    at Element.elementErrorHandlerCallback (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\webdriverio\build\middlewares.js:40:8)
+                    at Context.&lt;anonymous> (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\test\specs\waits\waitForEnabled.test.js:33:19)
+                    at Context.executeSync (C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\index.js:56:18)
+                    at C:\Users\Viji\Documents\workspace_vsc\webdriverio_examples\node_modules\@wdio\sync\build\index.js:82:70</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

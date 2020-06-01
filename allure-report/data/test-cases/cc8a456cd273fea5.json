@@ -1,0 +1,58 @@
+{
+  "uid" : "cc8a456cd273fea5",
+  "name" : "get text of all top nav links",
+  "fullName" : "blaze page elements handle.get text of all top nav links",
+  "historyId" : "fb4219207b6270f6535541e1c05425b6",
+  "time" : {
+    "start" : 1591024516074,
+    "stop" : 1591024525536,
+    "duration" : 9462
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "blaze page elements handle"
+  }, {
+    "name" : "testClass",
+    "value" : "blaze page elements handle"
+  }, {
+    "name" : "testMethod",
+    "value" : "get text of all top nav links"
+  }, {
+    "name" : "package",
+    "value" : "blaze page elements handle"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc8a456cd273fea5.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

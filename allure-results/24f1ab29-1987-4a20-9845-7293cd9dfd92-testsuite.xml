@@ -1,0 +1,69 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1591024516055' stop='1591024528662'>
+    <name>drop down handling</name>
+    <title>drop down handling</title>
+    <test-cases>
+        <test-case start='1591024516056' status='pending' stop='1591024516056'>
+            <name>select dropdown by visible text</name>
+            <title>select dropdown by visible text</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1591024516056' status='pending' stop='1591024516056'>
+            <name>select dropdown by index</name>
+            <title>select dropdown by index</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1591024516056' status='pending' stop='1591024516056'>
+            <name>select dropdown by attribute</name>
+            <title>select dropdown by attribute</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1591024516056' status='pending' stop='1591024516056'>
+            <name>get all values from dropdown</name>
+            <title>get all values from dropdown</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1591024516056' status='passed' stop='1591024528661'>
+            <name>get all values from dropdown</name>
+            <title>get all values from dropdown</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-83.0.4103.61'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,401 @@
+[ {
+  "uid" : "9e7444f756ff5148",
+  "name" : "should scroll to forgot password link, move and click",
+  "time" : {
+    "start" : 1591024638110,
+    "stop" : 1591024646330,
+    "duration" : 8220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d32cc257f009955e",
+  "name" : "name heading exists?",
+  "time" : {
+    "start" : 1591024527460,
+    "stop" : 1591024527757,
+    "duration" : 297
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e997904b52220ce",
+  "name" : "get header value",
+  "time" : {
+    "start" : 1591024573380,
+    "stop" : 1591024596998,
+    "duration" : 23618
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6453a9d44609d6a7",
+  "name" : "move to element",
+  "time" : {
+    "start" : 1591024569113,
+    "stop" : 1591024599086,
+    "duration" : 29973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a0f2dafe50cc2b5",
+  "name" : "should scroll to forgot password link",
+  "time" : {
+    "start" : 1591024638109,
+    "stop" : 1591024638109,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9261c733e24e96be",
+  "name" : "select dropdown by attribute",
+  "time" : {
+    "start" : 1591024516056,
+    "stop" : 1591024516056,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f9b704a9cfc13694",
+  "name" : "should wait for delete button",
+  "time" : {
+    "start" : 1591024647510,
+    "stop" : 1591024664190,
+    "duration" : 16680
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "148ae6aedda38c2c",
+  "name" : "should wait for button  to be enabled",
+  "time" : {
+    "start" : 1591024638785,
+    "stop" : 1591024638785,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cc8a456cd273fea5",
+  "name" : "get text of all top nav links",
+  "time" : {
+    "start" : 1591024516074,
+    "stop" : 1591024525536,
+    "duration" : 9462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a46c923d8c9953d",
+  "name" : "name heading displayed in Viewport?",
+  "time" : {
+    "start" : 1591024527757,
+    "stop" : 1591024528403,
+    "duration" : 646
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68f36bca1de48cc5",
+  "name" : "click on login button",
+  "time" : {
+    "start" : 1591024641220,
+    "stop" : 1591024641750,
+    "duration" : 530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20cdf25de0fcfc8a",
+  "name" : "should wait for button  to be disabled",
+  "time" : {
+    "start" : 1591024638786,
+    "stop" : 1591024655956,
+    "duration" : 17170
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1cc46bbbda8979b5",
+  "name" : "check checkbox page header",
+  "time" : {
+    "start" : 1591024531487,
+    "stop" : 1591024536090,
+    "duration" : 4603
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3aacd54be26d2c82",
+  "name" : "get all values from dropdown",
+  "time" : {
+    "start" : 1591024516056,
+    "stop" : 1591024516056,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d10757e7ceac4e7f",
+  "name" : "enter text on alert and accept alert",
+  "time" : {
+    "start" : 1591024597326,
+    "stop" : 1591024602340,
+    "duration" : 5014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3d0b982d2ecedc0",
+  "name" : "KEYS action perform F1",
+  "time" : {
+    "start" : 1591024614732,
+    "stop" : 1591024621159,
+    "duration" : 6427
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "234192da8fbc9abd",
+  "name" : "should click checkbox",
+  "time" : {
+    "start" : 1591024522410,
+    "stop" : 1591024531487,
+    "duration" : 9077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9126079fb3f1d9f",
+  "name" : "Lambdatest Demo TestCase",
+  "time" : {
+    "start" : 1591024516049,
+    "stop" : 1591024520599,
+    "duration" : 4550
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe080a346c12214a",
+  "name" : "get header text",
+  "time" : {
+    "start" : 1591024607120,
+    "stop" : 1591024616338,
+    "duration" : 9218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2241065ca10478a4",
+  "name" : "get all values from dropdown",
+  "time" : {
+    "start" : 1591024516056,
+    "stop" : 1591024528661,
+    "duration" : 12605
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "682b9dae18c2122",
+  "name" : "do drag and drop",
+  "time" : {
+    "start" : 1591024516039,
+    "stop" : 1591024533426,
+    "duration" : 17387
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce9702dcfc0bc60d",
+  "name" : "check checkbox page url",
+  "time" : {
+    "start" : 1591024536092,
+    "stop" : 1591024538568,
+    "duration" : 2476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c387ff0e27392dba",
+  "name" : "wait for home page",
+  "time" : {
+    "start" : 1591024641176,
+    "stop" : 1591024650864,
+    "duration" : 9688
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21b18f54ea8cf98b",
+  "name" : "enter value in a field",
+  "time" : {
+    "start" : 1591024574766,
+    "stop" : 1591024595203,
+    "duration" : 20437
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "18150993360913e",
+  "name" : "name heading enabled?",
+  "time" : {
+    "start" : 1591024526594,
+    "stop" : 1591024527459,
+    "duration" : 865
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f9c3743e1db1e99",
+  "name" : "check page url",
+  "time" : {
+    "start" : 1591024515990,
+    "stop" : 1591024522405,
+    "duration" : 6415
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93fe76e31725d76",
+  "name" : "select dropdown by visible text",
+  "time" : {
+    "start" : 1591024516056,
+    "stop" : 1591024516056,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "dfb4c3139f4f5abc",
+  "name" : "select dropdown by index",
+  "time" : {
+    "start" : 1591024516056,
+    "stop" : 1591024516056,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7da1f7f2cd1126b6",
+  "name" : "click on a filed",
+  "time" : {
+    "start" : 1591024595206,
+    "stop" : 1591024607118,
+    "duration" : 11912
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "33f08cbd0ec7b513",
+  "name" : "KEYS action perform shift",
+  "time" : {
+    "start" : 1591024609141,
+    "stop" : 1591024614729,
+    "duration" : 5588
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e555efb6da18700",
+  "name" : "KEYS action perform tab",
+  "time" : {
+    "start" : 1591024599093,
+    "stop" : 1591024609141,
+    "duration" : 10048
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b75a26b55e918858",
+  "name" : "accept alert",
+  "time" : {
+    "start" : 1591024573823,
+    "stop" : 1591024591290,
+    "duration" : 17467
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d280a5109491d82",
+  "name" : "enter username",
+  "time" : {
+    "start" : 1591024637759,
+    "stop" : 1591024640928,
+    "duration" : 3169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8976566ee4e183db",
+  "name" : "dismiss alert",
+  "time" : {
+    "start" : 1591024591293,
+    "stop" : 1591024597326,
+    "duration" : 6033
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dedaba97f551fa39",
+  "name" : "enter password",
+  "time" : {
+    "start" : 1591024640929,
+    "stop" : 1591024641220,
+    "duration" : 291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e4241d1ac3a9cb0",
+  "name" : "should clear password value",
+  "time" : {
+    "start" : 1591024641904,
+    "stop" : 1591024642017,
+    "duration" : 113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "526058e3f7704ab6",
+  "name" : "click on product link if it is displayed",
+  "time" : {
+    "start" : 1591024528404,
+    "stop" : 1591024536706,
+    "duration" : 8302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aad1c90a7da1eb06",
+  "name" : "should clear username value",
+  "time" : {
+    "start" : 1591024641751,
+    "stop" : 1591024641904,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aaee9df2215fead4",
+  "name" : "rediffmail accept alert",
+  "time" : {
+    "start" : 1591024602343,
+    "stop" : 1591024612238,
+    "duration" : 9895
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cd375e7c512e3fd",
+  "name" : "verify home page element",
+  "time" : {
+    "start" : 1591024574509,
+    "stop" : 1591024609799,
+    "duration" : 35290
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

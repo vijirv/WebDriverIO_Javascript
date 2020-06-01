@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1591024638108' stop='1591024646331'>
+    <name>scroll to element</name>
+    <title>scroll to element</title>
+    <test-cases>
+        <test-case start='1591024638109' status='pending' stop='1591024638109'>
+            <name>should scroll to forgot password link</name>
+            <title>should scroll to forgot password link</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1591024638110' status='passed' stop='1591024646330'>
+            <name>should scroll to forgot password link, move and click</name>
+            <title>should scroll to forgot password link, move and click</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-11'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-83.0.4103.61'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

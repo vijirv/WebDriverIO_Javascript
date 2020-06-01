@@ -1,0 +1,58 @@
+{
+  "uid" : "234192da8fbc9abd",
+  "name" : "should click checkbox",
+  "fullName" : "handling checkboxes.should click checkbox",
+  "historyId" : "ec93304d5d976aac5bface393e551193",
+  "time" : {
+    "start" : 1591024522410,
+    "stop" : 1591024531487,
+    "duration" : 9077
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "handling checkboxes"
+  }, {
+    "name" : "testClass",
+    "value" : "handling checkboxes"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click checkbox"
+  }, {
+    "name" : "package",
+    "value" : "handling checkboxes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "234192da8fbc9abd.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

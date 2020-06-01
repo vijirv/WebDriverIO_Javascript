@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1591024516049' stop='1591024520600'>
+    <name>Lambdatest Demo Test</name>
+    <title>Lambdatest Demo Test</title>
+    <test-cases>
+        <test-case start='1591024516049' status='passed' stop='1591024520599'>
+            <name>Lambdatest Demo TestCase</name>
+            <title>Lambdatest Demo TestCase</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-4'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-83.0.4103.61'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

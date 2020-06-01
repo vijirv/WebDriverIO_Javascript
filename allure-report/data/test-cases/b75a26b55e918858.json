@@ -1,0 +1,58 @@
+{
+  "uid" : "b75a26b55e918858",
+  "name" : "accept alert",
+  "fullName" : "handle alert popup.accept alert",
+  "historyId" : "a129529a84174e9faa4575af2e6de55b",
+  "time" : {
+    "start" : 1591024573823,
+    "stop" : 1591024591290,
+    "duration" : 17467
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "handle alert popup"
+  }, {
+    "name" : "testClass",
+    "value" : "handle alert popup"
+  }, {
+    "name" : "testMethod",
+    "value" : "accept alert"
+  }, {
+    "name" : "package",
+    "value" : "handle alert popup"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b75a26b55e918858.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

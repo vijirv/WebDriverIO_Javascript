@@ -1,0 +1,82 @@
+{
+  "uid" : "7da1f7f2cd1126b6",
+  "name" : "click on a filed",
+  "fullName" : "interaction with web elements.click on a filed",
+  "historyId" : "d8964ef0d953013a2476b9af4e69c691",
+  "time" : {
+    "start" : 1591024595206,
+    "stop" : 1591024607118,
+    "duration" : 11912
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"input.nav-input\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"input.nav-input\" because element wasn't found\n                    at implicitWait (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:22:13)\n                    at Element.runCommandWithHooks (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at Context.<anonymous> (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\test\\specs\\locators.js:16:20)\n                    at Context.executeSync (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Can't call click on element with selector \"input.nav-input\" because element wasn't found",
+    "statusTrace" : "Error: Can't call click on element with selector \"input.nav-input\" because element wasn't found\n                    at implicitWait (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:22:13)\n                    at Element.runCommandWithHooks (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at Context.<anonymous> (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\test\\specs\\locators.js:16:20)\n                    at Context.executeSync (C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at C:\\Users\\Viji\\Documents\\workspace_vsc\\webdriverio_examples\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f24a619ae52bd153",
+      "name" : "Screenshot",
+      "source" : "f24a619ae52bd153.png",
+      "type" : "image/png",
+      "size" : 98011
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-9"
+  }, {
+    "name" : "suite",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testClass",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "click on a filed"
+  }, {
+    "name" : "package",
+    "value" : "interaction with web elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7da1f7f2cd1126b6.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

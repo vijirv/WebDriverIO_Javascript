@@ -1,0 +1,58 @@
+{
+  "uid" : "c387ff0e27392dba",
+  "name" : "wait for home page",
+  "fullName" : "wait until sync for the elements.wait for home page",
+  "historyId" : "f43625b047fca3dd0501a85a6acbc8e6",
+  "time" : {
+    "start" : 1591024641176,
+    "stop" : 1591024650864,
+    "duration" : 9688
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-14"
+  }, {
+    "name" : "suite",
+    "value" : "wait until sync for the elements"
+  }, {
+    "name" : "testClass",
+    "value" : "wait until sync for the elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "wait for home page"
+  }, {
+    "name" : "package",
+    "value" : "wait until sync for the elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c387ff0e27392dba.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "a3d0b982d2ecedc0",
+  "name" : "KEYS action perform F1",
+  "fullName" : "page actions features.KEYS action perform F1",
+  "historyId" : "2ebc94213f6ec6fd2847da763b98d3f2",
+  "time" : {
+    "start" : 1591024614732,
+    "stop" : 1591024621159,
+    "duration" : 6427
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "page actions features"
+  }, {
+    "name" : "testClass",
+    "value" : "page actions features"
+  }, {
+    "name" : "testMethod",
+    "value" : "KEYS action perform F1"
+  }, {
+    "name" : "package",
+    "value" : "page actions features"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3d0b982d2ecedc0.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1591024574509' stop='1591024609801'>
+    <name>home page element handle</name>
+    <title>home page element handle</title>
+    <test-cases>
+        <test-case start='1591024574509' status='passed' stop='1591024609799'>
+            <name>verify home page element</name>
+            <title>verify home page element</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-8'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-83.0.4103.61'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

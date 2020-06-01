@@ -1,0 +1,58 @@
+{
+  "uid" : "3e555efb6da18700",
+  "name" : "KEYS action perform tab",
+  "fullName" : "page actions features.KEYS action perform tab",
+  "historyId" : "641221efe87d1e957046019ca946dd47",
+  "time" : {
+    "start" : 1591024599093,
+    "stop" : 1591024609141,
+    "duration" : 10048
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "page actions features"
+  }, {
+    "name" : "testClass",
+    "value" : "page actions features"
+  }, {
+    "name" : "testMethod",
+    "value" : "KEYS action perform tab"
+  }, {
+    "name" : "package",
+    "value" : "page actions features"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-83.0.4103.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e555efb6da18700.json",
+  "parameterValues" : [ "chrome-83.0.4103.61" ]
+}
