@@ -1,3 +1,12 @@
+const url = require('./url')
+const ENV = process.env.ENV
+
+if(!ENV || !['qa','stage','dev','prod'].includes(ENV))
+{
+    console.log('please pass correct ENV value')
+    process.exit()
+}
+
 exports.config = {
     //
     // ====================
@@ -101,7 +110,7 @@ exports.config = {
     // gets prepended directly.
     //baseUrl: 'https://www.amazon.com',
     baseUrl: 'https://the-internet.herokuapp.com',
-    //
+    //baseUrl: url[process.env.ENV], 
     // Default timeout for all waitFor* commands.
     waitforTimeout: 10000,
     //
