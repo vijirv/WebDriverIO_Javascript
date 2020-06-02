@@ -1,11 +1,12 @@
-const url = require('./url')
-const ENV = process.env.ENV
+//Environment set up code
+//const url = require('./url')
+//const ENV = process.env.ENV
 
-if(!ENV || !['qa','stage','dev','prod'].includes(ENV))
-{
-    console.log('please pass correct ENV value')
-    process.exit()
-}
+//if(!ENV || !['qa','stage','dev','prod'].includes(ENV))
+//{
+//   console.log('please pass correct ENV value')
+//    process.exit()
+//}
 
 exports.config = {
     //

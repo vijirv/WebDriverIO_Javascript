@@ -11,7 +11,7 @@ describe('wait until sync for the elements', () =>{
         //callback function , waiting for element to be displayed
         browser.waitUntil(function(){ 
             return email.isDisplayed() === true
-        }, 5000, 'email is not displayed after the given time')
+        }, 6000, 'email is not displayed after the given time')
 
         email.setValue('viji2903@gmail.com')
         password.setValue('26Ind1942')
@@ -20,11 +20,22 @@ describe('wait until sync for the elements', () =>{
 
         const header = $('h1.dashboard-selector__title')
         browser.waitUntil(function(){
-            return header.getText() === 'Marketing Dashboard'
-        }, 5000, 'header is not displayed after the given time')
+            return header.getText() === 'Marketing Dashboard' 
+                && browser.getTitle()==='Reports dashboard'
+        }, 6000, 'header is not displayed after the given time')
 
         console.log('Header is ',header.getText())
         assert.equal("Marketing Dashboard",header.getText())
+
+        /*browser.waitUntil(function(){
+            return browser.getTitle() === 'Reports Dashboard'
+        }, 5000, 'title is not displayed after the given time')
+        */
+
+        console.log(browser.getTitle())
+        assert.equal('Reports dashboard',browser.getTitle())
+
+
         
     })
 
